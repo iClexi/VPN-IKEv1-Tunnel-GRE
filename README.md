@@ -11,8 +11,8 @@
 **Video demostrativo:**  
 https://youtu.be/opI3pn_s4aI  
 **Documentación técnica profesional:**  
-[Ver documentación técnica profesional](docs/MichaelRobles_2025-0845_Documentacion-Tecnica-Profesional-VPN-IKEv1-Tunnel-GRE_P3.pdf)  
-**Ubicación directa:** `docs/MichaelRobles_2025-0845_Documentacion-Tecnica-Profesional-VPN-IKEv1-Tunnel-GRE_P3.pdf`
+[Ver documentación técnica profesional](docs/Documentacion%20Tecnica%20Profesional.pdf)  
+**Ubicación directa:** `docs/Documentacion Tecnica Profesional.pdf`
 
 ---
 
