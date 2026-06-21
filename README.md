@@ -1,5 +1,12 @@
 # VPN IPSec IKEv1 Site-to-Site con Túnel GRE
 
+![Platform](https://img.shields.io/badge/Platform-Cisco%20IOS-blue)
+![Environment](https://img.shields.io/badge/Environment-GNS3%20%7C%20IOSvL2-orange)
+![VPN](https://img.shields.io/badge/VPN-IPSec%20IKEv1-success)
+![Tunnel](https://img.shields.io/badge/Tunnel-GRE-informational)
+![Use](https://img.shields.io/badge/Use-Controlled%20Lab-yellow)
+![Topic](https://img.shields.io/badge/Topic-Network%20Security-purple)
+
 ---
 
 ## Información del proyecto
