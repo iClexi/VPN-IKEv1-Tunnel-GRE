@@ -1,0 +1,24 @@
+R1:
+show clock
+show ip interface brief
+show interface tunnel0
+ping 172.16.84.2 source 172.16.84.1
+show ip route 192.168.84.0
+show crypto isakmp sa
+show crypto ipsec sa
+
+R2:
+show ip interface brief
+show interface tunnel0
+ping 172.16.84.1 source 172.16.84.2
+show ip route 192.168.45.0
+show crypto isakmp sa
+show crypto ipsec sa
+
+PC-A:
+show ip
+ping 192.168.84.10
+
+PC-B:
+show ip
+ping 192.168.45.10
