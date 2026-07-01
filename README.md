@@ -281,9 +281,6 @@ VPN-IKEv1-Tunnel-GRE/
 │   ├── SW2.cfg
 │   ├── PC-A.cfg
 │   ├── PC-B.cfg
-│   └── Verification-Commands.txt
-├── video/
-│   └── Video-Link.txt
 └── README.md
 ```
 
